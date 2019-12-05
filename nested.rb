@@ -9,9 +9,7 @@ def hopper
 end
 
 def alan_kay_is_known_for
-	
-	programmer_hash = {
-          :known_for => "Object Orientation",
+          "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
      }
 end

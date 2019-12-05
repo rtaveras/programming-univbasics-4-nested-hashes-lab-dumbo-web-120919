@@ -9,9 +9,7 @@ def hopper
 end
 
 def alan_kay_is_known_for
-          "Object Orientation",
-          :languages => ["Smalltalk", "LISP"]
-     }
+          "Object Orientation"
 end
 
 def dennis_ritchies_language
